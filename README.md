@@ -69,12 +69,6 @@ This balance makes tau an effective stand‑in for a “burden” field: not rea
 
 ---
 
-## Quick start
-
-```bash
-python braakhop.py
-```
-
 Example output:
 
 ```
@@ -144,9 +138,3 @@ Keep this file as `README.md` in the repo root. Place the script alongside it. L
 ## License / reuse
 
 Add a license of your choice (MIT, BSD, Apache‑2.0). The code is educational and open for adaptation.
-
----
-
-## Acknowledgments
-
-This README describes exactly what the script does — no more, no less.
